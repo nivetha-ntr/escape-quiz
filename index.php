@@ -16,7 +16,7 @@ $dbHost = '127.0.0.1';
 $dbPort = '5432';
 $dbName = 'webgis';
 $dbUser = 'postgres';
-$dbPass = 'ntr07'; // Replace with your PostgreSQL password
+$dbPass = ''; // Replace with your PostgreSQL password
 
 $competitionCode = 'MAP15';
 $organizerPin = '2468';
